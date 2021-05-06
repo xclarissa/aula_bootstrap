@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+
+body {
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: #13293D;
+    
+}
+
+.nav-link {
+    color: rgb(153, 148, 148);
+    
+}
+
+.quem-somos {
+    background-color: #006494;
+    color: white;
+}
+
+.margin {
+    /*padding - para dentro da pag e margin top para fora */
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.parceiros {
+    background-color: #247BA0;
+    color: white;
+}
+
+.servicos {
+    background-color: #1b98e0;
+    color: white;
+}
+
+.bg-footer {
+    background-color: #E8F1F2;
+    color: rgb(153, 148, 148);
+}
